@@ -6,13 +6,6 @@
 - ✨ Pronouns: He / His 
 - 👮‍♀️ Fun-fact: I've served for 3 years in an Officer Preparatory course at Brazilian Navy, but it was not my thing lol
 
-## Get in touch!
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pina-pedrolucas)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucaspina22@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolpin4/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrolpin4)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521967431453&text=Olá,%20meu%20amigo!)
-
 ## Technologies 
 
 #### **Front-end**
@@ -41,10 +34,14 @@
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
 ![husky](https://img.shields.io/badge/Husky-b0b0d5?style=flat-square)
 
-
+## Get in touch!
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pina-pedrolucas)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucaspina22@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolpin4/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrolpin4)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521967431453&text=Olá,%20meu%20amigo!)
 
 ## Stats
-
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolpin4&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolpin4&layout=compact&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
