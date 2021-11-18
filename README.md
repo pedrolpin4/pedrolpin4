@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos)
 - 🧪 I'm currently learning End-to-end Javascript Testing and BackEnd Architectures
-- 🇧🇷 I'm from Brazil, and I'm looking to work as a software engineer and solve some software problems
+- 🇧🇷 I'm from Brazil, and I'm looking forward to work as a software engineer and solve some software problems
 - ✨ Pronouns: He / His 
 - 👮‍♀️ Fun-fact: I've served for 3 years in an Officer Preparatory course at Brazilian Navy, but it was not my thing lol
 
