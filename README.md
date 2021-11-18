@@ -1,9 +1,9 @@
 # **Hello, people of internet! 👋 I'm Pedro**
 
-- 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos), which primarily focuses on React and Node.js
-- 🧪 I'm currently learning End-to-end Javascript Testing
-- ✨ Pronouns: He / His
-- 🧑‍🤝‍🧑 I'm looking to collaborate on open source projects
+- 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos)
+- 🧪 I'm currently learning End-to-end Javascript Testing and BackEnd Architectures
+- 🇧🇷 I'm from Brazil, and I'm currently looking to work as a software engineer and solve some software problems
+- ✨ Pronouns: He / His 
 - 👮‍♀️ Fun-fact: I've served for 3 years in an Officer Preparatory course at Brazilian Navy, but it was not my thing lol
 
 ## Technologies 
