@@ -1,4 +1,7 @@
-# **Hello, people of internet! 👋 I'm Pedro**
+# **Hello, people of internet! 👋 I'm Pedro Lucas**
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pina-pedrolucas)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucaspina22@gmail.com)
 
 - 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos)
 - 🧪 I'm currently learning End-to-end Javascript Testing and BackEnd Architectures
@@ -43,11 +46,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolpin4&layout=compact&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Want to get in touch?
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pina-pedrolucas)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.bruch0@gmail.com)
 <!--
 **pedrolpin4/pedrolpin4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
