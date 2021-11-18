@@ -1,4 +1,4 @@
-<h1 align="center">Hello, people of internet! 👋 I'm Pedro Lucas :stars:</h1>
+<h1 align="center">Hello, people of internet! 👋  I'm Pedro Lucas</h1>
 
 - 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos)
 - 🧪 I'm currently learning End-to-end Javascript Testing and BackEnd Architectures
