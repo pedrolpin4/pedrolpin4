@@ -1,4 +1,4 @@
-# **Hello, people of internet! 👋 I'm Pedro Lucas**
+<h1 align="center">Hello, people of internet! 👋 I'm Pedro Lucas :stars:</h1>
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pina-pedrolucas)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucaspina22@gmail.com)
