@@ -5,7 +5,7 @@
 - 🇧🇷 I'm from Brazil, and I'm looking forward to work as a software engineer and solve some software problems
 - ✨ Pronouns: He / His 
 - 👮‍♀️ Fun-fact: I've served for 3 years in an Officer Preparatory course at Brazilian Navy, but it was not my thing lol
-- 💥 Obs: I absolutely love CSS and its effects, u can see some on my <a href = "https://github.com/pedrolpin4?tab=repositories">Repositories</a>
+- 💥 Obs: I absolutely love CSS and its effects, u can see some within my <a href = "https://github.com/pedrolpin4?tab=repositories">Repositories</a>
 ## Technologies 
 
 #### **Front-end**
