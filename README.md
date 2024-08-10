@@ -45,5 +45,5 @@
 
 ## Stats
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolpin4&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolpin4&show_icons=true&layout=compact&theme=synthwave&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolpin4&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolpin4&show_icons=true&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
