@@ -1,49 +1,79 @@
-<h1 align="center">Hello, people of internet! 👋  I'm Pedro Lucas</h1>
+<h1 align="center">Hey there, I'm Pedro Lucas! 👋</h1>
 
-- 🔭 I'm currently in a Full-Stack WebDev training program at [Driven Education](https://www.driven.com.br/#sobre-nos)
-- 🧪 I'm currently learning how to apply Unitary Testing and BackEnd Architectures
-- 🇧🇷 I'm from Brazil, and I'm looking forward to work as a software engineer and solve some software problems
-- ✨ Pronouns: He / His 
-- 👮‍♀️ Fun-fact: I've served for 3 years in an Officer Preparatory course at Brazilian Navy, but it was not my thing lol
-- 💥 Obs: I absolutely love CSS and its effects, u can see some within my <a href = "https://github.com/pedrolpin4?tab=repositories">Repositories</a>
-## Technologies 
+<p align="center">
+  <em>Software Engineer · Backend Specialist · Data Engineering Enthusiast</em>
+</p>
 
-#### **Front-end**
+---
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+## 🚀 About Me
+
+I'm a software engineer from Brazil 🇧🇷 with 4+ years of experience in backend and data engineering. I currently lead backend and data infrastructure projects at [Mecanizou](https://www.mecanizou.com.br/), where I’ve built scalable systems to process and serve millions of records and tens of thousands of daily requests.
+
+I'm passionate about building efficient architectures, solving complex data problems, and occasionally diving into frontend to show off my love for CSS. I’m fluent in English (C2) and actively looking for engineering opportunities where I can make an impact!
+
+> ⚓ Fun fact: I spent 3 years in an Officer Preparatory course at the Brazilian Navy... but turned to engineering instead 😄
+
+---
+
+## 🧠 Recent Focus
+
+- Architecting data pipelines and cloud infrastructure on AWS
+- Designing scalable backend systems using Python, Node.js, and TypeScript
+- NLP-based solutions for unstructured automotive data
+- Writing clean, testable code and implementing CI/CD workflows
+
+---
+
+## 🛠 Tech Stack
+
+### **Back-End & Data Engineering**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-F06C00?style=flat-square&logo=dbt&logoColor=white)
+![Redshift](https://img.shields.io/badge/AWS%20Redshift-8C3123?style=flat-square&logo=amazon-aws&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-4B32C3?style=flat-square&logo=airbyte&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-512DA8?style=flat-square)
+![Parquet](https://img.shields.io/badge/Parquet-000000?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### **Front-End**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-182534?style=flat-square)
+![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square)
 
-#### **Back-end**
-
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+### **Testing & DevOps**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-182534?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square)
 
+---
 
-#### **Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](http://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Trello](https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=trello&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square&logo=ESLint)
-![husky](https://img.shields.io/badge/Husky-b0b0d5?style=flat-square)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-
-## Get in touch!
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pina-pedrolucas)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucaspina22@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolpin4/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrolpin4)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521967431453&text=Olá,%20meu%20amigo!)
-
-## Stats
+## 📊 GitHub Stats
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolpin4&show_icons=true&theme=synthwave&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolpin4&show_icons=true&layout=compact&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolpin4&layout=compact&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pina-pedrolucas)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrolucaspina22@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pedrolpin4)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5521967431453&text=Olá,%20meu%20amigo!)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrolpin4/)
+
+---
+
+<p align="center">
+  <strong>Thanks for stopping by — let's build something great together! 🚀</strong>
+</p>
