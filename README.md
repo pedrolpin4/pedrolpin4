@@ -30,18 +30,23 @@ I'm passionate about building efficient architectures, solving complex data prob
 
 ## 🛠 Tech Stack
 
-### **Back-End & Data Engineering**
+### **Back-End**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### **Data Engineering**
 ![DBT](https://img.shields.io/badge/dbt-F06C00?style=flat-square&logo=dbt&logoColor=white)
 ![Redshift](https://img.shields.io/badge/AWS%20Redshift-8C3123?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-4B32C3?style=flat-square&logo=airbyte&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-512DA8?style=flat-square)
 ![Parquet](https://img.shields.io/badge/Parquet-000000?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![S3](https://img.shields.io/badge/S3-009688?style=flat-square)
 
 ### **Front-End**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -59,6 +64,7 @@ I'm passionate about building efficient architectures, solving complex data prob
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
 ## 📫 Get in Touch
