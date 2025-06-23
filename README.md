@@ -60,14 +60,6 @@ I'm passionate about building efficient architectures, solving complex data prob
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-7c7ce9?style=flat-square)
 
----
-
-## 📊 GitHub Stats
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrolpin4&show_icons=true&theme=synthwave&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolpin4&layout=compact&theme=synthwave&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ## 📫 Get in Touch
 
