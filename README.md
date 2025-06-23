@@ -37,16 +37,16 @@ I'm passionate about building efficient architectures, solving complex data prob
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/AWS%20DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ### **Data Engineering**
 ![DBT](https://img.shields.io/badge/dbt-F06C00?style=flat-square&logo=dbt&logoColor=white)
-![Redshift](https://img.shields.io/badge/AWS%20Redshift-8C3123?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-4B32C3?style=flat-square&logo=airbyte&logoColor=white)
+![AWS Redshift](https://img.shields.io/badge/AWS%20Redshift-8C3123?style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white)
+![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-000000?style=flat-square&logo=apache-parquet&logoColor=white)
 ![Dagster](https://img.shields.io/badge/Dagster-512DA8?style=flat-square)
-![Parquet](https://img.shields.io/badge/Parquet-000000?style=flat-square)
-![S3](https://img.shields.io/badge/S3-009688?style=flat-square)
 
 ### **Front-End**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
