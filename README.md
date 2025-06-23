@@ -8,7 +8,9 @@
 
 ## 🚀 About Me
 
-I'm a software engineer from Brazil 🇧🇷 with 4+ years of experience in backend and data engineering. I currently lead backend and data infrastructure projects at [Mecanizou](https://www.mecanizou.com.br/), where I’ve built scalable systems to process and serve millions of records and tens of thousands of daily requests.
+I'm a software engineer from Brazil 🇧🇷 with 4+ years of experience in backend and data engineering. I'm currently working at [Black & White Zebra](https://bwz.com/) in their AI and Data Applications.
+
+Previously, I led backend and data infrastructure projects at [Mecanizou](https://www.mecanizou.com.br/), where I’ve built scalable systems to process and serve millions of records and tens of thousands of daily requests.
 
 I'm passionate about building efficient architectures, solving complex data problems, and occasionally diving into frontend to show off my love for CSS. I’m fluent in English (C2) and actively looking for engineering opportunities where I can make an impact!
 
@@ -19,8 +21,9 @@ I'm passionate about building efficient architectures, solving complex data prob
 ## 🧠 Recent Focus
 
 - Architecting data pipelines and cloud infrastructure on AWS
+- Developing AI applications in order to drive business value in the age of LLMs
 - Designing scalable backend systems using Python, Node.js, and TypeScript
-- NLP-based solutions for unstructured automotive data
+- NLP-based solutions for unstructured data
 - Writing clean, testable code and implementing CI/CD workflows
 
 ---
@@ -43,10 +46,12 @@ I'm passionate about building efficient architectures, solving complex data prob
 ### **Front-End**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![StyledComponents](https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-000000?style=flat-square&logo=radix-ui&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logo=Zustand&logoColor=white)
 
 ### **Testing & DevOps**
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
