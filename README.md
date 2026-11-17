@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer from Brazil 🇧🇷 with 4+ years of experience in backend and data engineering. I'm currently working at [Black & White Zebra](https://bwz.com/) in their AI and Data Applications.
+I'm a software engineer from Brazil 🇧🇷 with 5+ years of experience in backend and data engineering. I'm currently working at [Black & White Zebra](https://bwz.com/) in their AI and Data Applications.
 
 Previously, I led backend and data infrastructure projects at [Mecanizou](https://www.mecanizou.com.br/), where I’ve built scalable systems to process and serve millions of records and tens of thousands of daily requests.
 
